@@ -13,17 +13,17 @@
 
 7. [Budget](#budget)
 
-7.1. [27% to Server Cost](#27-to-server-cost)
+	7.1. [27% to Server Cost](#27-to-server-cost)
 
-7.2. [Server Specs](#server-specs)
+	7.2. [Server Specs](#server-specs)
   
-7.2.1. [Main Server C5.9xlarge](#main-server-c59xlarge)
+	  ...7.2.1. [Main Server C5.9xlarge](#main-server-c59xlarge)
 
-7.2.2. [Backup server C5.4xlarge](#backup-server-c54xlarge)
+	  ...7.2.2. [Backup server C5.4xlarge](#backup-server-c54xlarge)
 
-7.2.3. [Possible extra expenses](#possible-extra-expenses)
+	  ...7.2.3. [Possible extra expenses](#possible-extra-expenses)
 
-7.2.4. [%53 Development Funds](#53-development-funds)
+	  ...7.2.4. [%53 Development Funds](#53-development-funds)
 
 8. [Roadmap](#roadmap)
 
